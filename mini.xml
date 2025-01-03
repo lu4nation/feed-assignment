@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <item>
+            <description>mini</description>
+            <g:id>123</g:id>
+            <g:image_link>ignored</g:image_link>
+            <g:price>0.99</g:price>
+            <g:sale_price>0.99</g:sale_price>
+            <link>ignored</link>
+            <title>title</title>
+        </item>
+        <item>
+            <g:id>1234</g:id>
+            <g:image_link>ignored</g:image_link>
+            <g:price>0.99</g:price>
+            <g:sale_price>0.99</g:sale_price>
+            <link>ignored</link>
+            <title>title2</title>
+        </item>
+
+
+    </channel>
+</rss>
